@@ -22,3 +22,7 @@ function createFareMultiplier(num) {
 function fareDoubler(num) {
   return num * 2
 }
+
+function fareDoubler(num) {
+  return num * 3
+}
