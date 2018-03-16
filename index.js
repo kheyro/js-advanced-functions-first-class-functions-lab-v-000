@@ -12,3 +12,7 @@ const selectingDrivers = [
   returnFirstTwoDrivers,
   returnLastTwoDrivers
 ]
+
+function createFareMultiplier(num) {
+  return num * num
+}
