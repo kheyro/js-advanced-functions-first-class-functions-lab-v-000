@@ -27,6 +27,6 @@ function fareTripler(num) {
   return num * 3
 }
 
-function selectDifferentDrivers(arrayOfDrivers, function) {
-  return function(arrayOfDrivers)
+function selectDifferentDrivers(arrayOfDrivers, func) {
+  return func(arrayOfDrivers)
 }
